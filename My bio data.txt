@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+    <title>MY BIO DATA</title>
+    <body>
+        <h1><ins>ASWIN A</ins></h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/c/c1/Lionel_Messi_20180626.jpg" width="300"
+        <br>
+        <h2>DOB : 22/02/2002</h2>
+        <h2>place : calicut</h2>
+        <h2>qualifications : SSLC,+2,Ba sociology</h2>
+        <h2>status : SINGLE</h2>
+        <h2> hobbies:<i>playing football,</i> gaming</h2>
+        <h2>Studying python fullstack in FUTURA LABS</h2>
+        <a href="https://thefuturalabs.com/">contact futura labs click here</a>
+        <h2>Language : English,malayaalam,<del>Hindi</del></h2>
+        <h2></h2>
+       <a href="https://github.com/aswincalicut">Click here to see my git</a>
+       <h2>phone number : <mark>7902276376</mark></h2>
+       <h2>email:<mark> aswincalicut57@gmail.com</mark></h2>
+        
+         
+   
+
+    </body>
+</html>
